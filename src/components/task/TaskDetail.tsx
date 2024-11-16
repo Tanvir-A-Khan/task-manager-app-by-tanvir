@@ -41,7 +41,7 @@ const TaskDetail: React.FC<TaskDetailProps> = ({ taskId, isOpen, onClose }) => {
     }
   }, [taskId, isOpen]);
 
-  if (!taskId || !isOpen) {
+  if (!task || !taskId || !isOpen) {
     return null;
   }
 
