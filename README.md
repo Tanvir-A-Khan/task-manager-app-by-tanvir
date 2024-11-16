@@ -1,6 +1,3 @@
-Here's the `README.md` written in markdown format for you to copy-paste:
-
-```markdown
 # Task Manager App by Tanvir
 
 A simple Task Manager application built with **Vite**, **React**, **TypeScript**, **Redux Toolkit**, and **Tailwind CSS**. This project helps manage and track tasks with CRUD (Create, Read, Update, Delete) operations.
