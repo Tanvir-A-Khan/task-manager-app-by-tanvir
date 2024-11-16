@@ -29,13 +29,13 @@ The app is deployed using **GitHub Pages**. To build and deploy it:
    ```bash
    npm run build
    ```
-2. Deploy to GitHub Pages:
+2. Run the app:
    ```bash
-   npm run deploy
+   npm run dev
    ```
 
-Visit the app at:  
-`https://Tanvir-A-Khan.github.io/task-manager-app-by-tanvir/`
+Follow the instructions in the console.
+Enjoy !!
 
 ## License
 MIT License
